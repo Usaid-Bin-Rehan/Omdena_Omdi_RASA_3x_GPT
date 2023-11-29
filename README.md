@@ -1,9 +1,5 @@
 # Omdena_Omdi_RASA_3x_GPT
 
-## Link to Documentation
-
-https://docs.google.com/document/d/1QRXC0oUFVOkNrhAc3D0VPjwOu-kMS1s3BSlbzdkN5_k
-
 ## Developing an Interactive Chatbot for the Omdena Website
 
 ## Project background
